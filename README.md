@@ -6,7 +6,7 @@ The American Community Survey (ACS) is an ongoing survery that is conducted ever
 charactersistics of the US population. I choose to analyse population characteristics from the ACS data set, I thought it would be interesting to compare people from different races and compare people within a particular race.
 
 The project was divided into 3 parts
->Data Preprocesing
->Data Summary
->Exploratory Data Analysis
->Model
+**1. Data Preprocesing**
+**2. Data Summary**
+**3. Exploratory Data Analysis**
+**4. Model**
