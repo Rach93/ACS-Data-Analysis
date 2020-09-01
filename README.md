@@ -8,9 +8,6 @@ charactersistics of the US population. I choose to analyse population characteri
 The project was divided into 3 parts:
 
 **1. Data Preprocesing**
-
 **2. Data Summary**
-
 **3. Exploratory Data Analysis**
-
 **4. Model**
