@@ -1,6 +1,6 @@
 # American-Community-Survey-Data-Analysis
 
-In this project the American Community Survey data was analyzed using R.
+In this project the American Community Survey data was analyzed using R. Packages used dplyr, gglpot2, Highcharter, kableExtra, data.table, weights, Hmisc, wordcloud
 
 The American Community Survey (ACS) is an ongoing survery that is conducted every year in the US. It provides data about the economic, social, demographic, and housing 
 charactersistics of the US population. I choose to analyse population characteristics from the ACS data set. I thought it would be interesting to compare people from different races and compare people within a particular race.
@@ -14,4 +14,3 @@ The project was divided into 4 parts:
 **3. Exploratory Data Analysis**: By visualizing the data multiple questions were answered comparing race, education, English ability, and income etc.
 
 **4. Model**: A linear regeression model was built to determine the income using the gender, educational qualifications, and English proficiency.
-
