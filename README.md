@@ -13,4 +13,4 @@ The project was divided into 4 parts:
 
 **3. Exploratory Data Analysis**: By visualizing the data multiple questions were answered comparing race, education, English ability, and income etc.
 
-**4. Model**: A linear regeression model was built to determine the income using the gender, educational qualifications, and English proficiency.
+**4. Model**: A linear regression model was built to determine the income using the gender, educational qualifications, and English proficiency.
